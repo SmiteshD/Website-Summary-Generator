@@ -36,11 +36,11 @@ Run the app:
 streamlit run app.py
 ```
 
-##🖥️ Usage
+## 🖥️ Usage
 - Enter your Groq API Key in the sidebar.
   Provide a valid website URL in the text box.
   Click Summarize to generate a summary of the content.
 
-##📌 Notes
+## 📌 Notes
 - Ensure you have a valid Groq API key to access the Gemma2 model.
   The app uses UnstructuredURLLoader for fetching website content.
