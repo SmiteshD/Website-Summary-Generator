@@ -26,12 +26,12 @@ git clone https://github.com/your-username/website-summary-generator.git
 cd website-summary-generator
 ```
 
-Install dependencies:
+**Install dependencies:**
 ```bash
 pip install -r requirements.txt
 ```
 
-Run the app:
+**Run the app:**
 ```bash
 streamlit run app.py
 ```
